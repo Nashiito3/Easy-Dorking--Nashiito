@@ -4,11 +4,11 @@ __Linux__
 
 Clone the repo:
 ```
-https://github.com/0xStevenson/Easy-Dorking.git
+https://github.com/Nashiito/Easy-Dorking--Nashiito.git
 ```
 Go to the directory:
 ```
-cd Easy-Dorking
+cd Easy-Dorking--Nashiito
 ```
 Setup:
 ```
