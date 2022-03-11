@@ -4,7 +4,7 @@ __Linux__
 
 Clone the repo:
 ```
-https://github.com/Nashiito/Easy-Dorking--Nashiito.git
+https://github.com/Nashiito3/Easy-Dorking--Nashiito.git
 ```
 Go to the directory:
 ```
